@@ -2,11 +2,9 @@
 date: 2026-06-07
 tiers: ['Stone Age']
 mods: ['CropsNH']
-author: "mister_nibbles"
-pack_version: "2.9 beta1"
 image: ""
 ---
-
+IM MAKING SOME CHANGEDS THAT SHOULDNT BE MERGED
 # Beginner's Guide To CropsNH
 
 Welcome to CropsNH!  This mod is one of the standout additions to the pack in 2.9 and this series of guides will tell you everything you need to know to become a crop master!
